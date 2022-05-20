@@ -7,6 +7,63 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 1410,
+    "id" : "https://Frenchgirl04.github.io/The-Admont-Archive/images/secretgardensecond/canvas/",
+    "label" : {
+      "none" : [ "secretgardensecond" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Frenchgirl04.github.io/The-Admont-Archive/images/secretgardensecond/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Frenchgirl04.github.io/The-Admont-Archive/images/secretgardensecond/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 45,
+              "height" : 71
+            }, {
+              "width" : 89,
+              "height" : 141
+            }, {
+              "width" : 177,
+              "height" : 282
+            }, {
+              "width" : 353,
+              "height" : 563
+            }, {
+              "width" : 705,
+              "height" : 1125
+            }, {
+              "width" : 1410,
+              "height" : 2250
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1410,
+            "@id" : "https://Frenchgirl04.github.io/The-Admont-Archive/images/secretgardensecond",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2250
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1410,
+          "id" : "https://Frenchgirl04.github.io/The-Admont-Archive/images/secretgardensecond/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2250
+        },
+        "target" : "https://Frenchgirl04.github.io/The-Admont-Archive/images/secretgardensecond/canvas/"
+      } ]
+    } ],
+    "height" : 2250
+  }, {
+    "width" : 1410,
     "id" : "https://Frenchgirl04.github.io/The-Admont-Archive/images/2/canvas/",
     "label" : {
       "none" : [ "2" ]
